@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲: https://github.com/40823212/cad2020 \n', 'tags': '', 'url': 'About.html'}, {'title': 'soildwork PDF.1', 'text': '使用5mm繪製 \n \n', 'tags': '', 'url': 'soildwork PDF.1.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲: https://github.com/40823212/cad2020 \n', 'tags': '', 'url': 'About.html'}, {'title': 'soildwork PDF.1', 'text': '使用5mm繪製 \n \n \n', 'tags': '', 'url': 'soildwork PDF.1.html'}, {'title': 'HW.2', 'text': '零件14 \n Solidworks2017使用5mm繪製 \n \n', 'tags': '', 'url': 'HW.2.html'}]};
